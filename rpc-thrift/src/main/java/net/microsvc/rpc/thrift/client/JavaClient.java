@@ -60,6 +60,7 @@ public class JavaClient {
     work.num1 = 1;
     work.num2 = 0;
     try {
+      @SuppressWarnings("unused")
       int quotient = client.calculate(1, work);
       System.out.println("Whoa we can divide by 0");
     } catch (InvalidOperation io) {
