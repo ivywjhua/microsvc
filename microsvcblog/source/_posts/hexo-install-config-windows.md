@@ -1,9 +1,10 @@
 ---
 title: hexo的安装和使用
-date: 2016-01-07 11:49:27
+date: 2016-01-07 11:49:27 
 tags: hexo
 ---
 
+hexo在windows, linux上的安装，配置和使用
 ## windows上安装hexo和配置
 - 安装 node, 下载并安装 node-v4.2.4-x86.msi
 - 安装 hexo，npm install -g hexo-cli
