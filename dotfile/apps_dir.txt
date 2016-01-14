@@ -1,0 +1,59 @@
+.
+├── apps_dir.txt
+├── data
+│   ├── m2
+│   ├── redis
+│   └── zk
+├── devsoft
+│   └── eclipse-jee-luna-sr2-x64
+├── devspace
+│   └── lunaws
+├── logs
+│   └── redis
+├── lost+found [error opening dir]
+├── repo
+│   ├── alibaba
+│   ├── baidu
+│   ├── ctripcorp
+│   ├── dangdang
+│   ├── dianping
+│   ├── dropwizard
+│   ├── facebbok
+│   ├── helloidea15
+│   ├── jinhua
+│   ├── netflix
+│   ├── ref
+│   ├── spring
+│   ├── unidal
+│   ├── vips
+│   └── weibo
+├── svr
+│   ├── apache-maven-3.3.9
+│   ├── apache-tomcat-7.0.67
+│   ├── jdk -> jdk1.8.0_66/
+│   ├── jdk1.7.0_79
+│   ├── jdk1.8.0_66
+│   ├── mvn -> apache-maven-3.3.9/
+│   ├── nginx -> nginx-1.8.0/
+│   ├── nginx-1.8.0
+│   ├── redis -> redis-2.8.24/
+│   ├── redis-2.8.24
+│   ├── tomcat -> apache-tomcat-7.0.67/
+│   ├── zk -> zookeeper-3.4.7/
+│   └── zookeeper-3.4.7
+├── temp
+│   ├── config_files
+│   ├── config_files.tar.gz
+│   ├── disconf
+│   ├── disconf-demos-java
+│   ├── disconf-rd
+│   ├── ivywjhua.github.io
+│   ├── microsvcblog
+│   ├── redis-2.8.24
+│   ├── tldr_0.1.0_amd64.deb
+│   └── VMwareTools-9.9.0-2304977.tar.gz
+└── tools
+    ├── idea-IU-143.1184.17
+    └── sublime_text_3
+
+52 directories, 4 files

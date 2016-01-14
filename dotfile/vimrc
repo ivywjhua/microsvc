@@ -1,0 +1,72 @@
+
+"exmaple
+"http://www.cnblogs.com/king-77024128/articles/2666228.html
+"http://www.cnblogs.com/ma6174/archive/2011/12/10/2283393.html
+
+colorscheme desert		"颜色模式
+"colorscheme solarized
+set background=dark
+
+set nowrap				"nowrap
+
+set nocompatible		"不使用vi默认键盘布局
+
+set number				"显示行号
+
+set autoindent			"自动对齐
+set smartindent			"智能对齐
+
+set showmatch			"括号匹配模式
+
+set ruler				"显示状态行
+
+set hlsearch			"搜索高亮
+set incsearch			"逐字搜索
+set ignorecase			"忽略大小写
+
+set tabstop=4			"tab键宽度
+set softtabstop=4		"统一缩进
+set shiftwidth=4		"统一缩进
+set noexpandtab			"不使用空格代替制表符
+set smarttab			"在行和段的开始使用制表符
+
+"set cindent			"C语言格式对齐
+
+set nobackup			"不要备份文件
+set noswapfile			"不要备份文件
+
+set laststatus=2
+set t_Co=256
+
+"set clipboard+=unnamed	"与windows共享剪贴板
+
+"==========================================
+
+set autoread			"文件改动时自动载入
+
+set completeopt=preview,menu	"代码补全
+
+filetype plugin on		"允许插件
+filetype on				"侦测文件类型
+filetype indent on		"载入文件类型插件
+
+"set cursorline			"突出显示当前行
+
+set magic				"设置魔术
+
+syntax on			"语法高亮
+
+set noeb 				"去掉错误提示声音
+
+set confirm				"处理未保存或者只读文件时，弹出确认
+
+set history=1000		"历史记录数
+
+set showmode			"显示状态
+
+set enc=utf-8 			"编码设置
+set fencs=utf-8,ucs-bom,shift-jis,gb18030,gbk,gb2312,cp936
+
+"set langmenu=zh_CN.UTF-8 	"语言设置
+"set helplang=cn
+

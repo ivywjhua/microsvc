@@ -1,0 +1,40 @@
+repo/
+├── alibaba
+│   ├── dubbo
+│   ├── gecko
+│   ├── light-task-scheduler
+│   ├── super-diamond
+│   ├── tengine
+│   └── TProfiler
+├── baidu
+│   └── disconf
+├── ctripcorp
+│   ├── hermes
+│   └── zeus
+├── dangdang
+│   ├── dubbox
+│   └── elastic-job
+├── dianping
+│   ├── cat
+│   └── Dolphin
+├── dropwizard
+├── facebbok
+│   └── fbthrift
+├── helloidea15
+├── jinhua
+│   ├── ivywjhua.github.io
+│   └── microsvc
+├── netflix
+│   └── Hystrix
+├── ref
+│   └── better-java
+├── spring
+├── unidal
+│   ├── frameworks
+│   └── maven-plugins
+├── vips
+└── weibo
+    ├── qdaxb
+    └── wtool
+
+37 directories, 0 files
