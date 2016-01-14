@@ -35,8 +35,11 @@ repo/
 │   ├── frameworks
 │   └── maven-plugins
 ├── vips
-└── weibo
-    ├── qdaxb
-    └── wtool
+├── weibo
+│   ├── qdaxb
+│   └── wtool
+└── xiaomi
+    ├── open-falcon
+    └── rose
 
-39 directories, 0 files
+42 directories, 0 files
