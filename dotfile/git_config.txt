@@ -1,0 +1,3 @@
+git config --global user.name microsvc
+git config --global user.email ivywjhua@gmail.com
+git config --global core.editor vim

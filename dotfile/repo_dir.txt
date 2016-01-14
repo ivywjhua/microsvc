@@ -20,6 +20,8 @@ repo/
 ├── dropwizard
 ├── facebbok
 │   └── fbthrift
+├── ganji
+│   └── thrift-protocol-client
 ├── helloidea15
 ├── jinhua
 │   ├── ivywjhua.github.io
@@ -37,4 +39,4 @@ repo/
     ├── qdaxb
     └── wtool
 
-37 directories, 0 files
+39 directories, 0 files
