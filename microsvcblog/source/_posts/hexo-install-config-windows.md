@@ -14,6 +14,10 @@ hexo在windows, linux上的安装，配置和使用
 - 安装deployer插件，npm install hexo-deployer-git --save
 - 安装feed插件，npm install hexo-generator-feed --save
 
+## hexo dependency install
+- git submodule update --init --recursive
+- npm install
+
 ## hexo常用命令
 - hexo new "My New Post"
 - hexo s   [server]
