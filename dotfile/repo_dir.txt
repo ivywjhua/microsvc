@@ -14,6 +14,7 @@ repo/
 ├── dangdang
 │   ├── dubbox
 │   └── elastic-job
+│   └── elastic-jdbc
 ├── dianping
 │   ├── cat
 │   └── Dolphin
